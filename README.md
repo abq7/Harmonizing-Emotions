@@ -18,24 +18,18 @@ This repository contains the code and models developed for the thesis titled **"
 
 ### Running the Models:
 
-1. **Install Dependencies**:
-   Before running any of the models, ensure that the necessary Python packages are installed by running:
-   ```bash
-   pip install -r requirements.txt
+Each model can be executed individually to view its predictions and evaluation. Simply open the corresponding Python script and run it:
 
-2. **Running the Models**:
-   Each model can be executed individually to view its predictions and evaluation. Simply open the corresponding Python script and run it:
-
-   - `Linear Regression.py`
-   - `Random Forest.py`
-   - `Gradient Boosting.py`
-   - `SVR.py`
-   - `CNN + Attention Model.py`
-   - `LSTM.py`
-   - `BiLSTM + Attention Model.py`
-   - `HAN.py`
-
-   The dataset has already been preprocessed, and the models are ready to be run. Each model script includes its training and evaluation.
+- `Linear Regression.py`
+- `Random Forest.py`
+- `Gradient Boosting.py`
+- `SVR.py`
+- `CNN + Attention Model.py`
+- `LSTM.py`
+- `BiLSTM + Attention Model.py`
+- `HAN.py`
+- 
+The dataset has already been preprocessed, and the models are ready to be run. Each model script includes its training and evaluation.
 
 ## Dependencies
 
