@@ -28,7 +28,7 @@ Each model can be executed individually to view its predictions and evaluation. 
 - `LSTM.py`
 - `BiLSTM + Attention Model.py`
 - `HAN.py`
-- 
+  
 The dataset has already been preprocessed, and the models are ready to be run. Each model script includes its training and evaluation.
 
 ## Dependencies
