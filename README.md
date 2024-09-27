@@ -51,11 +51,6 @@ The following dependencies are required to run the models in this repository:
 - `keras`
 - `matplotlib`
 
-To install these dependencies, run:
-
-```bash
-pip install -r requirements.txt
-
 ## Models
 
 The repository contains several models used to predict valence and arousal:
